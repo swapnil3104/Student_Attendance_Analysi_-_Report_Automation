@@ -1,0 +1,21 @@
+Roll Number,Name,Gender,Attendance out of 30 days,Attendance Percentage,Student Mail ID,Parent Mail ID
+R001,Ajay,Male,16,53.33333333333334,student4@example,parent1@example.com
+R002,Elizabeth,Female,27,90.0,student2@example.com,parent2@example.com
+R003,Swapnil,Male,25,68.33333333333334,student4@example,parent3@example.com
+R004,Patricia,Female,30,100.0,student4@example.com,parent4@example.com
+R005,omkar,Male,25,83.33333333333334,student5@example.com,parent5@example.com
+R006,Jennifer,Female,30,100.0,student6@example.com,parent6@example.com
+R007,James,Male,27,90.0,student7@example.com,parent7@example.com
+R008,Jessica,Female,27,90.0,student8@example.com,parent8@example.com
+R009,James,Male,17,56.66666666666666,student9@example.com,parent9@example.com
+R010,Arya,Female,29,72.0,student4@example,parent10@example.com
+R011,Joseph,Male,22,73.33333333333333,student11@example.com,parent11@example.com
+R012,Elizabeth,Female,25,75.0,student12@example.com,parent12@example.com
+R013,Daniel,Male,21,70.0,student13@example.com,parent13@example.com
+R014,Jessica,Female,19,63.33333333333333,student14@example.com,parent14@example.com
+R015,Michael,Male,17,25.0,student15@example.com,parent15@example.com
+R016,Elizabeth,Female,16,53.33333333333334,student16@example.com,parent16@example.com
+R017,atharv,Male,21,70.0,student9@example.com,parent17@example.com
+R018,Sarah,Female,15,50.0,student18@example.com,parent18@example.com
+R019,Hemant,Male,29,19.0,student4@example,parent19@example.com
+R020,Patricia,Female,19,63.33333333333333,student20@example.com,parent20@example.com
